@@ -4,4 +4,4 @@
 
 * This is a personal repository for recording ideas when solving problems on leetcode. I'll divide it into two parts to record: **daily practise** and **weekly/biweekly contests**.
 
-* The file 
+* The file “problemList.csv” maintain a problem solving status list and relative links.

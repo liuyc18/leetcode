@@ -1,2 +1,3 @@
 problemID,name,difficulty,lastChange,status,runtime,comment
-958,Check Completeness of a Binary Tree,Medium,03/15/2023,AC,91.2%,BFS in tree/deque
+958,Check Completeness of a Binary Tree,Medium,03/15/2023,AC,91.2%,BFS in tree/deque. tranverse in level
+106,Construct Binary Tree from Inorder and Postorder Traversal,Medium,03/17/2023,AC,7.16%,tranverse in pre/in/post-order

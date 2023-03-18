@@ -2,6 +2,4 @@
 > @Initial Time : 03/15/2023  
 > @Author : liuyc18 
 
-* This is a personal repository for recording ideas when solving problems on leetcode. I'll divide it into two parts to record: **daily practise** and **weekly/biweekly contests**.
-
-* The file “problemList.csv” maintain a problem solving status list and relative links.
+* This is a personal repository for recording ideas when solving problems on leetcode, including **daily practise** and **weekly/biweekly contests**.

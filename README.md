@@ -3,3 +3,8 @@
 > @Author : liuyc18 
 
 * This is a personal repository for recording ideas when solving problems on leetcode, including **daily practise** and **weekly/biweekly contests**.
+
+* About problem status:
+    * AC: Accepted
+    * AT: Attemped
+    * NT: Not Tried

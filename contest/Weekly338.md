@@ -2,7 +2,8 @@
 |-|-|-|-|-|-|-|-|-|
 |2600|K Items With the Maximum Sum|Easy||||||N|
 |2601|Prime Subtraction Operation|Medium|03/27/2023|AC|O(n)|90.9%|greedy|Y|
-|2602|Minimum Operations to Make All Array Elements Equal|Medium|
+|2602|Minimum Operations to Make All Array Elements Equal|Medium|03/27/2023|AC|O(n + m*logn)|99%|presum + binary search|Y|
+|2603|Collect Coins in a Tree|Hard|03/27/2023|||||Y|
 
 ## 2601. Prime Subtraction Operation
 > greedy AC O(n) 03/27/2023   
@@ -56,7 +57,9 @@ class Solution {
 ```
 
 ## 2602. Minimum Operations to Make All Array Elements Equal
-> 
+> AC 03/27
+
+![](../pics/2602.png)
 
 ### Solution
 * Easy to have an idea like java version 1 below, it's brutal but exceeds time limit, though correct.
